@@ -29,4 +29,4 @@ python3 pdv.py
 ```
 ## Tabela de testes 
 
-![Tabela de teste do PDV](imagem/tabela-teste.png)
+![Tabela de teste do PDV](imagem/tabela-testes.png)
