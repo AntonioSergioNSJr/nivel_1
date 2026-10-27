@@ -28,8 +28,8 @@ while True:
         print("Erro: A quantidade deve ser um número inteiro válido.\n")
         continue
         
-    if quantidade < 0:
-        print("Erro: A quantidade não pode ser negativa. Tente novamente.\n")
+    if quantidade <= 0:
+        print("Erro: A quantidade deve ser maior que zero. Tente novamente.\n")
         continue
 
     # 3. Entrada e Validação da Idade
